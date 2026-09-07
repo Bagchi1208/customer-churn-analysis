@@ -52,4 +52,4 @@ jupyter notebook customer_churn_documented.ipynb
 
 ## Author
 
-[Your name] — [LinkedIn/portfolio link]
+Snehasish Bagchi
